@@ -1,0 +1,12 @@
+{
+  "name": "caching-proxy",
+  "version": "1.0.0",
+  "description": "Servidor proxy de cache simples em Node.js",
+  "main": "caching-proxy.js",
+  "bin": {
+    "caching-proxy": "./caching-proxy.js"
+  },
+  "scripts": {},
+  "author": "Seu Nome",
+  "license": "MIT"
+}
